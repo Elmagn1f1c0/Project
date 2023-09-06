@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Project\Project.API\Project.Data\bin\Debug\net6.0\Project.Data.deps.json
+C:\Users\hp\Desktop\Project\Project.API\Project.Data\bin\Debug\net6.0\Project.Data.dll
+C:\Users\hp\Desktop\Project\Project.API\Project.Data\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\hp\Desktop\Project\Project.API\Project.Data\obj\Debug\net6.0\Project.Data.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Project\Project.API\Project.Data\obj\Debug\net6.0\Project.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Project\Project.API\Project.Data\obj\Debug\net6.0\Project.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Project\Project.API\Project.Data\obj\Debug\net6.0\Project.Data.AssemblyInfo.cs
+C:\Users\hp\Desktop\Project\Project.API\Project.Data\obj\Debug\net6.0\Project.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project\Project.API\Project.Data\obj\Debug\net6.0\Project.Data.dll
+C:\Users\hp\Desktop\Project\Project.API\Project.Data\obj\Debug\net6.0\refint\Project.Data.dll
+C:\Users\hp\Desktop\Project\Project.API\Project.Data\obj\Debug\net6.0\Project.Data.pdb
+C:\Users\hp\Desktop\Project\Project.API\Project.Data\obj\Debug\net6.0\ref\Project.Data.dll
+C:\Users\hp\Desktop\Project\Project.API\Project.Data\bin\Debug\net6.0\Project.Data.runtimeconfig.json
+C:\Users\hp\Desktop\Project\Project.API\Project.Data\obj\Debug\net6.0\Project.Data.genruntimeconfig.cache
